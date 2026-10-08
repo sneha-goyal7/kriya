@@ -1,0 +1,35 @@
+export const TRUSTED_SOURCES = {
+  video: [
+    "youtube.com/fireship",
+    "youtube.com/traversymedia",
+    "youtube.com/coreyms",
+    "youtube.com/kevinpowell",
+    "youtube.com/alextheanalyst",
+    "cs50.harvard.edu",
+  ],
+  docs: [
+    "react.dev",
+    "developer.mozilla.org",
+    "python.org",
+    "docs.python.org",
+    "postgresql.org",
+    "nodejs.org",
+    "typescriptlang.org",
+    "pandas.pydata.org",
+  ],
+  read: [
+    "freecodecamp.org",
+    "theodinproject.com",
+    "javascript.info",
+    "css-tricks.com",
+    "kaggle.com/learn",
+    "sqlzoo.net",
+  ],
+  practice: [
+    "exercism.org",
+    "codesandbox.io",
+    "codepen.io",
+    "replit.com",
+    "kaggle.com",
+  ],
+};
