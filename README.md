@@ -5,7 +5,6 @@
 ### An intelligent full-stack learning platform powered by AI, built with the MERN stack
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Kriya-4CAF50?style=for-the-badge&logo=vercel)](https://kriya-pro.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-TechExplorer15-181717?style=for-the-badge&logo=github)](https://github.com/TechExplorer15/lms-platform)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -75,29 +74,6 @@ lms-platform/
 - MongoDB (local or Atlas)
 - npm or yarn
 
-### Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/TechExplorer15/lms-platform.git
-cd lms-platform
-```
-
-#### Backend
-```bash
-cd lms-backend
-npm install
-npm run dev
-```
-
-#### Frontend
-```bash
-cd lms-frontend
-npm install
-npm start
-```
-
----
 
 ## 📸 Screenshots
 
@@ -128,10 +104,7 @@ npm start
 
 ## 🙋‍♂️ Author
 
-**TechExplorer15**
-- GitHub: [@TechExplorer15](https://github.com/TechExplorer15)
-- Live: [kriya-pro.vercel.app](https://kriya-pro.vercel.app)
-
+SNEHA GOYAL
 ---
 
 ## 📄 License
